@@ -1,28 +1,11 @@
 # Estudos-aulas-full-stack-developer :star:
+---
 # Resumos e estudo das aulas de full stack developer web
 
- :vulcan_salute:
+ DESENV. WEB|REACT|POO|BACKEND|DEVOPS|DEV SOFTWARE
+ ---|---|---|---|---|---|
+:ballot_box_with_check: HTML  :ballot_box_with_check: CSS  :ballot_box_with_check: JAVASCRIPT|:file_folder:	|:file_folder:	|:file_folder:	|:file_folder:	|:file_folder:	
+
  
  
- :smile:
-
-teste1|teste2|teste3
----|---|---
-1|2|3
-4|5|6
-
-
-
-
-
-
-
-:laughing:
-
-:moon:
-:confused:
-:mask:
-:dizzy_face:
-:zzz:
-:star:
-::
+ 
