@@ -1,6 +1,7 @@
+---
 # Estudos Aulas Full Stack Developer :computer:
 ---
-# Resumos e estudo das aulas de full stack developer web
+# Resumos e anotações :pencil:
 
  DESENV. WEB|REACT|POO|BACKEND|DEVOPS|DEV SOFTWARE
  ---|---|---|---|---|---|
