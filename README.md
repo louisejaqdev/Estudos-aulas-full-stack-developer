@@ -1,4 +1,4 @@
-# Estudos-aulas-full-stack-developer :star:
+# Estudos Aulas Full Stack Developer :computer:
 ---
 # Resumos e estudo das aulas de full stack developer web
 
